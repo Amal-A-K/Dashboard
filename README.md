@@ -1,11 +1,11 @@
 # Dashboard
 
-A responsive and functional front-end dashboard application built with **React** and designed to showcase a clean and intuitive interface.
+A responsive front-end dashboard application built with **React** and designed to showcase a clean and intuitive interface.
 
 ## Features
 - Dynamic and interactive user interface.
 - Built with modern web development tools and best practices.
-- Easy to navigate and visually appealing.
+- Visually appealing.
 
 ## Tech Stack
 - **React**: Front-end library for building user interfaces.
@@ -13,7 +13,7 @@ A responsive and functional front-end dashboard application built with **React**
 - **HTML5 & CSS3**: For markup and styling.
 
 ## Live Demo
-Check out the live application here: [Dashboard Live Demo](https://your-vercel-link.vercel.app)
+Check out the live application here: [Dashboard Live Demo](https://dashboard-blush-beta.vercel.app/)
 
 ## Getting Started
 ### Prerequisites
